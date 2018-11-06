@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko"
-title                    : "Lazy Developer"
+title                    : "Dreaming Developer"
 title_separator          : "-"
 name                     : "zanyfelix"
 description              : "An amazing website."
